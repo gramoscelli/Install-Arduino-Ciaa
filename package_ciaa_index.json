@@ -14,9 +14,9 @@
                     "architecture": "arm",
                     "version": "0.1.0",
                     "category": "Contributed",
-                    "url": "http://gustavo.imaglabs.org/Ciaa-Arduino-master.zip",
+                    "url": "https://codeload.github.com/gramoscelli/Ciaa-Arduino/zip/master",
                     "archiveFileName": "Ciaa-Arduino-master.zip",
-                    "checksum": "SHA-256:e31a1f33cdf9d40be12108fd3cec8777db5df594d9ad17cc48fb6a8a017d8d62",
+                    "checksum": "SHA-256:66d7166455091f56fdcca0de5d68e4066a23f48f96aad276713d172c6968daf6",
                     "size": "2899",
                     "boards": 
                     [
