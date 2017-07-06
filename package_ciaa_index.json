@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://codeload.github.com/gramoscelli/Ciaa-Arduino/zip/master",
                     "archiveFileName": "Ciaa-Arduino-master.zip",
-                    "checksum": "SHA-256:e2706256d94ca97b73038afb266fe9c23ab9b462f43ae516dce911761c9a3713",
-                    "size": "14843164",
+                    "checksum": "SHA-256:f875ec83dbd44176a381db9f63c2b980822917cfe6129e059c075ce45a8c6ec2",
+                    "size": "14831066",
                     "boards": 
                     [
                         {"name": "ciaa-nxp"},
